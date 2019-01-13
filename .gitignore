@@ -1,0 +1,5 @@
+/build
+/node_modules
+/test/ganache
+/package-lock.json
+/*.exe
